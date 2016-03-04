@@ -1,2 +1,0 @@
-# Android
-practicas de clase
